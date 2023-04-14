@@ -48,7 +48,11 @@ Stats
 -----
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=danieltakahashi&show_icons=true&locale=en" alt="danieltakahashi" />
+</p>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=danieltakahashi&" alt="danieltakahashi" />
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danieltakahashi&show_icons=true&locale=en&layout=compact" alt="danieltakahashi" />
 </p>
 
