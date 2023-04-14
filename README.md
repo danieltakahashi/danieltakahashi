@@ -1,16 +1,14 @@
-### Hi there 👋
+Hi 👋 My name is Daniel Takahashi
+=================================
 
-<!--
-**danieltakahashi/danieltakahashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer
+-----------------
 
-Here are some ideas to get you started:
+*   🌍  I'm based in Brazil
+*   ✉️  You can contact me at [daniel.arbext@gmail.com](mailto:daniel.arbext@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danieltakahashi&show_icons=true&theme=transparent)
+
+### Holoping
+
+[![An image of @danieltakahashi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/danieltakahashi)](https://holopin.io/@danieltakahashi)
