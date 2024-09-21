@@ -60,6 +60,10 @@ Stats
 
 [![An image of @danieltakahashi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/danieltakahashi)](https://holopin.io/@danieltakahashi)
 
+### Badges
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/danieltakahashi/" target="blank">
