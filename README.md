@@ -62,6 +62,10 @@ Stats
 
 ### Badges
 <!--START_SECTION:badges-->
+[![GitHub Foundations](https://images.credly.com/size/110x110/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png)](http://www.credly.com/badges/0c273070-6099-4520-a5c5-fa986c13300d "GitHub Foundations")
+[![Scrum Foundation Professional Certification - SFPC™ !](https://images.credly.com/size/110x110/images/4e3d6f9f-55d7-4ea7-b0e6-f4d4ff543e22/image.png)](http://www.credly.com/badges/3203d64a-d9c4-4d58-adfc-11c01ca197fe "Scrum Foundation Professional Certification - SFPC™ !")
+[![Lifelong Learning !](https://images.credly.com/size/110x110/images/f5cf37e4-6ebd-4067-96a9-b26d04f51ff7/CertiProf-Badge-LLL.png)](http://www.credly.com/badges/680d0dcc-9cbf-4140-b229-c79dc919fd74 "Lifelong Learning !")
+[![Remote Work Professional Certification - RWPC™ !](https://images.credly.com/size/110x110/images/ea2c9f2e-b7e1-4a5a-a82e-7e94b67b35bd/image.png)](http://www.credly.com/badges/92820382-5532-432f-8ffc-11ff9162a026 "Remote Work Professional Certification - RWPC™ !")
 <!--END_SECTION:badges-->
 
 <h3 align="left">Connect with me:</h3>
